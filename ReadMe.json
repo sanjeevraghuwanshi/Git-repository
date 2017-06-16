@@ -10,7 +10,11 @@
         }
     },
     {
+<<<<<<< HEAD
         "sita": {
+=======
+        "hari": {
+>>>>>>> 2ce3625b9f05904cbabd6d2e969b738da975b8b8
             "description": "He is a good man"
         }
     }
